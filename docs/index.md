@@ -1,24 +1,47 @@
-# Welcome to MkDocs
+# Books
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Personal reference notes and reviews on books I’ve read.
 
-## Commands
+This site is intended as a **private reference library**: concise summaries,
+key ideas, notable arguments, and cross-links between related works.
+It is not a blog and not a recommendation engine.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## How to use this site
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Use the **navigation sidebar** to browse by category
+- Use **Tags** to find books by theme or topic
+- Use **Search** to locate specific concepts or passages
+- Individual pages are designed to be **self-contained references**
 
-Inline: $E=mc^2$
+---
 
-$$
-\int_a^b f(x)\,dx
-$$
+## What you’ll find here
 
+- Short, structured reviews
+- Key ideas and conceptual summaries
+- Cross-references between related books
+- Occasional analytical or comparative notes
+
+---
+
+## Start here
+
+- **Reviews** – curated book notes and summaries  
+- **Tags** – browse books by topic or theme  
+- **Search** – find concepts across all notes  
+
+---
+
+## Scope and status
+
+This collection is **selective and evolving**.
+Not every book I read appears here, and entries may be revised over time
+as my understanding changes.
+
+---
+
+## License
+
+The content on this site is proprietary.

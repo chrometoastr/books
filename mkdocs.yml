@@ -1,4 +1,4 @@
-site_name: Books
+site_name: Geoff Nichols
 theme:
   name: material
 
@@ -10,5 +10,20 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
+plugins:
+  - search
+  - meta
+  - tags
+
+extra_css:
+  - stylesheets/review.css
+
 copyright: >
   © 2026 Geoff Nichols. All rights reserved.
+
+nav:
+  - Home: index.md
+  - Tags: tags.md
+  - Physics:
+      - Special Relativity and Classical Field Theory by Leonard Susskind & Art Friedman: physics/review-sr+classical-field-theory.md
+  - License: LICENSE.md
